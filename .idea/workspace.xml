@@ -36,57 +36,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/first-project-selenium/build.gradle">
+      <file leaf-file-name="FireFoxEbay.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/first-project-selenium/src/test/java/com/telran/qa15/homework1/FireFoxEbay.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="15" lean-forward="false" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+            <state relative-caret-position="38">
+              <caret line="22" column="47" lean-forward="true" selection-start-line="22" selection-start-column="47" selection-end-line="22" selection-end-column="86" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ChromeEbay.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/first-project-selenium/src/test/java/com/telran/qa15/homework1/ChromeEbay.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="174">
+              <caret line="31" column="3" lean-forward="true" selection-start-line="31" selection-start-column="3" selection-end-line="31" selection-end-column="3" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Sandbox.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/first-project-selenium/src/test/java/com/telran/qa15/sandbox/Sandbox.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-              <folding>
-                <element signature="e#109#110#0" expanded="true" />
-                <element signature="e#146#147#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="OpenChromeTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/first-project-selenium/src/test/java/com/telran/qa15/sandbox/OpenChromeTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="8" column="28" lean-forward="false" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#339#340#0" expanded="true" />
-                <element signature="e#382#383#0" expanded="true" />
-                <element signature="e#428#429#0" expanded="true" />
-                <element signature="e#491#492#0" expanded="true" />
-                <element signature="e#538#539#0" expanded="true" />
-                <element signature="e#567#568#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="OpenFirefoxTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/first-project-selenium/src/test/java/com/telran/qa15/sandbox/OpenFirefoxTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="310">
-              <caret line="20" column="22" lean-forward="false" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="45" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#505#506#0" expanded="true" />
-                <element signature="e#558#559#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -401,14 +368,20 @@
         <option value="$PROJECT_DIR$/first-project-selenium/src/test/java/Sandbox.java" />
         <option value="$PROJECT_DIR$/first-project-selenium/src/test/java/com/telran/qa15/sandbox/OpenChromeTest.java" />
         <option value="$PROJECT_DIR$/first-project-selenium/src/test/java/com/telran/qa15/sandbox/OpenFirefoxTest.java" />
+        <option value="$PROJECT_DIR$/first-project-selenium/src/test/java/com/telran/qa15/sandbox/Ebay.java" />
+        <option value="$PROJECT_DIR$/first-project-selenium/src/test/java/com/telran/qa15/sandbox/FireFoxEbay.java" />
+        <option value="$PROJECT_DIR$/first-project-selenium/src/test/java/com/telran/qa15/homework1/IE9Ebay.java" />
+        <option value="$PROJECT_DIR$/first-project-selenium/src/test/java/com/telran/qa15/homework1/OperaEbay.java" />
+        <option value="$PROJECT_DIR$/first-project-selenium/src/test/java/com/telran/qa15/homework1/FireFoxEbay.java" />
+        <option value="$PROJECT_DIR$/first-project-selenium/src/test/java/com/telran/qa15/homework1/ChromeEbay.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="591" />
-    <option name="y" value="11" />
-    <option name="width" value="791" />
-    <option name="height" value="730" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="225" />
+    <option name="y" value="141" />
+    <option name="width" value="1113" />
+    <option name="height" value="728" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -426,7 +399,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -458,15 +431,33 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="qa15" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="first-project-selenium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="first-project-selenium" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="qa15" type="462c0819:PsiDirectoryNode" />
+              <item name="homework1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="first-project-selenium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="first-project-selenium" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="qa15" type="462c0819:PsiDirectoryNode" />
               <item name="sandbox" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -481,6 +472,9 @@
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.telran.qa15.sandbox" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Toxa7777\Documents\GitHub\OlgaIvasykQA15\first-project-selenium\src\test\java" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -494,7 +488,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.OpenFirefoxTest.openSiteTest">
+  <component name="RunManager" selected="TestNG.FireFoxEbay">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -543,10 +537,10 @@
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
     </configuration>
-    <configuration name="OpenChromeTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="ChromeEbay" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.telran.qa15.sandbox.*" />
+          <option name="PATTERN" value="com.telran.qa15.homework1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -554,8 +548,8 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="com.telran.qa15.sandbox" />
-      <option name="MAIN_CLASS_NAME" value="com.telran.qa15.sandbox.OpenChromeTest" />
+      <option name="PACKAGE_NAME" value="com.telran.qa15.homework1" />
+      <option name="MAIN_CLASS_NAME" value="com.telran.qa15.homework1.ChromeEbay" />
       <option name="METHOD_NAME" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="CLASS" />
@@ -575,15 +569,52 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="OpenChromeTest.tetOpenBrowser" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+    <configuration name="FireFoxEbay" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.telran.qa15.homework1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <module name="first-project-selenium_test" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="com.telran.qa15.sandbox.OpenChromeTest" />
-      <option name="METHOD_NAME" value="tetOpenBrowser" />
+      <option name="PACKAGE_NAME" value="com.telran.qa15.sandbox" />
+      <option name="MAIN_CLASS_NAME" value="com.telran.qa15.homework1.FireFoxEbay" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="FireFoxEbay.openSiteTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.telran.qa15.homework1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="first-project-selenium_test" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="com.telran.qa15.sandbox" />
+      <option name="MAIN_CLASS_NAME" value="com.telran.qa15.homework1.FireFoxEbay" />
+      <option name="METHOD_NAME" value="openSiteTest" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="METHOD" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -602,10 +633,10 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="OpenFirefoxTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="OperaEbay" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.telran.qa15.sandbox.*" />
+          <option name="PATTERN" value="com.telran.qa15.homework1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -613,8 +644,8 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="com.telran.qa15.sandbox" />
-      <option name="MAIN_CLASS_NAME" value="com.telran.qa15.sandbox.OpenFirefoxTest" />
+      <option name="PACKAGE_NAME" value="com.telran.qa15.homework1" />
+      <option name="MAIN_CLASS_NAME" value="com.telran.qa15.homework1.OperaEbay" />
       <option name="METHOD_NAME" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="CLASS" />
@@ -634,10 +665,10 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="OpenFirefoxTest.openSiteTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="OperaEbay.openSite" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.telran.qa15.sandbox.*" />
+          <option name="PATTERN" value="com.telran.qa15.homework1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -645,9 +676,9 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="com.telran.qa15.sandbox" />
-      <option name="MAIN_CLASS_NAME" value="com.telran.qa15.sandbox.OpenFirefoxTest" />
-      <option name="METHOD_NAME" value="openSiteTest" />
+      <option name="PACKAGE_NAME" value="com.telran.qa15.homework1" />
+      <option name="MAIN_CLASS_NAME" value="com.telran.qa15.homework1.OperaEbay" />
+      <option name="METHOD_NAME" value="openSite" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="METHOD" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -699,18 +730,20 @@
       <option name="PROGRAM_PARAMETERS" />
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
-    <list size="4">
-      <item index="0" class="java.lang.String" itemvalue="TestNG.OpenChromeTest.tetOpenBrowser" />
-      <item index="1" class="java.lang.String" itemvalue="TestNG.OpenChromeTest" />
-      <item index="2" class="java.lang.String" itemvalue="TestNG.OpenFirefoxTest.openSiteTest" />
-      <item index="3" class="java.lang.String" itemvalue="TestNG.OpenFirefoxTest" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="TestNG.FireFoxEbay" />
+      <item index="1" class="java.lang.String" itemvalue="TestNG.FireFoxEbay.openSiteTest" />
+      <item index="2" class="java.lang.String" itemvalue="TestNG.ChromeEbay" />
+      <item index="3" class="java.lang.String" itemvalue="TestNG.OperaEbay" />
+      <item index="4" class="java.lang.String" itemvalue="TestNG.OperaEbay.openSite" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="TestNG.OpenFirefoxTest.openSiteTest" />
-        <item index="1" class="java.lang.String" itemvalue="TestNG.OpenFirefoxTest" />
-        <item index="2" class="java.lang.String" itemvalue="TestNG.OpenChromeTest" />
-        <item index="3" class="java.lang.String" itemvalue="TestNG.OpenChromeTest.tetOpenBrowser" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="TestNG.FireFoxEbay" />
+        <item index="1" class="java.lang.String" itemvalue="TestNG.OperaEbay.openSite" />
+        <item index="2" class="java.lang.String" itemvalue="TestNG.FireFoxEbay.openSiteTest" />
+        <item index="3" class="java.lang.String" itemvalue="TestNG.ChromeEbay" />
+        <item index="4" class="java.lang.String" itemvalue="TestNG.OperaEbay" />
       </list>
     </recent_temporary>
   </component>
@@ -731,67 +764,67 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="OpenChromeTest_tetOpenBrowser - 2018.09.17 at 20h 50m 01s.xml">
-      <configuration name="OpenChromeTest.tetOpenBrowser" configurationId="TestNG" />
+    <history-entry file="ChromeEbay - 2018.09.26 at 08h 44m 46s.xml">
+      <configuration name="ChromeEbay" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="OpenChromeTest_tetOpenBrowser - 2018.09.17 at 20h 56m 16s.xml">
-      <configuration name="OpenChromeTest.tetOpenBrowser" configurationId="TestNG" />
+    <history-entry file="FireFoxEbay - 2018.09.26 at 08h 51m 01s.xml">
+      <configuration name="FireFoxEbay" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="OpenChromeTest_tetOpenBrowser - 2018.09.21 at 15h 02m 08s.xml">
-      <configuration name="OpenChromeTest.tetOpenBrowser" configurationId="TestNG" />
+    <history-entry file="FireFoxEbay_openSiteTest - 2018.09.26 at 08h 46m 25s.xml">
+      <configuration name="FireFoxEbay.openSiteTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="OpenChromeTest_tetOpenBrowser - 2018.09.21 at 15h 14m 24s.xml">
-      <configuration name="OpenChromeTest.tetOpenBrowser" configurationId="TestNG" />
+    <history-entry file="OperaEbay_openSite - 2018.09.26 at 08h 34m 36s.xml">
+      <configuration name="OperaEbay.openSite" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="OpenFirefoxTest - 2018.09.21 at 17h 27m 38s.xml">
-      <configuration name="OpenFirefoxTest" configurationId="TestNG" />
+    <history-entry file="OperaEbay_openSite - 2018.09.26 at 08h 39m 16s.xml">
+      <configuration name="OperaEbay.openSite" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="OpenFirefoxTest - 2018.09.21 at 17h 35m 45s.xml">
-      <configuration name="OpenFirefoxTest" configurationId="TestNG" />
+    <history-entry file="OperaEbay_openSite - 2018.09.26 at 08h 40m 34s.xml">
+      <configuration name="OperaEbay.openSite" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="OpenFirefoxTest - 2018.09.21 at 18h 09m 14s.xml">
-      <configuration name="OpenFirefoxTest" configurationId="TestNG" />
+    <history-entry file="OperaEbay_openSite - 2018.09.26 at 08h 43m 17s.xml">
+      <configuration name="OperaEbay.openSite" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="OpenFirefoxTest_openSiteTest - 2018.09.21 at 17h 27m 00s.xml">
-      <configuration name="OpenFirefoxTest.openSiteTest" configurationId="TestNG" />
+    <history-entry file="OperaEbay_openSite - 2018.09.26 at 08h 49m 05s.xml">
+      <configuration name="OperaEbay.openSite" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="OpenFirefoxTest_openSiteTest - 2018.09.21 at 17h 59m 23s.xml">
-      <configuration name="OpenFirefoxTest.openSiteTest" configurationId="TestNG" />
+    <history-entry file="OperaEbay_openSite - 2018.09.26 at 08h 49m 42s.xml">
+      <configuration name="OperaEbay.openSite" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="OpenFirefoxTest_openSiteTest - 2018.09.21 at 20h 04m 02s.xml">
-      <configuration name="OpenFirefoxTest.openSiteTest" configurationId="TestNG" />
+    <history-entry file="OperaEbay_openSite - 2018.09.26 at 10h 29m 12s.xml">
+      <configuration name="OperaEbay.openSite" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="591" y="11" width="791" height="730" extended-state="1" />
+    <frame x="225" y="141" width="1113" height="728" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998326" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.45575958" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3953099" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22024624" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2583096" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -824,11 +857,34 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/first-project-selenium/src/test/java/com/telran/qa15/homework1/OperaEbay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/first-project-selenium/src/test/java/com/telran/qa15/homework1/OperaEbay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/first-project-selenium/src/test/java/com/telran/qa15/homework1/OperaEbay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/first-project-selenium/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="15" lean-forward="false" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -836,10 +892,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding>
-            <element signature="e#109#110#0" expanded="true" />
-            <element signature="e#146#147#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -847,11 +899,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="20" column="22" lean-forward="true" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#505#506#0" expanded="true" />
-            <element signature="e#558#559#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -859,7 +906,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="15" lean-forward="false" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -883,11 +929,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="1" lean-forward="false" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#505#506#0" expanded="true" />
-            <element signature="e#558#559#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -895,10 +936,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding>
-            <element signature="e#109#110#0" expanded="true" />
-            <element signature="e#146#147#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -906,7 +943,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="15" lean-forward="false" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -926,40 +962,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/first-project-selenium/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="15" lean-forward="false" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/first-project-selenium/src/test/java/com/telran/qa15/sandbox/Sandbox.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding>
-            <element signature="e#109#110#0" expanded="true" />
-            <element signature="e#146#147#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/first-project-selenium/src/test/java/com/telran/qa15/sandbox/OpenFirefoxTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="310">
-          <caret line="20" column="22" lean-forward="false" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#505#506#0" expanded="true" />
-            <element signature="e#558#559#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/first-project-selenium/src/test/java/com/telran/qa15/sandbox/OpenChromeTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
+        <state relative-caret-position="136">
           <caret line="8" column="28" lean-forward="false" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -970,6 +982,46 @@
             <element signature="e#538#539#0" expanded="true" />
             <element signature="e#567#568#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/first-project-selenium/src/test/java/com/telran/qa15/sandbox/OpenFirefoxTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="33" lean-forward="true" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/first-project-selenium/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="20" lean-forward="false" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/first-project-selenium/src/test/java/com/telran/qa15/homework1/OperaEbay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="46" lean-forward="false" selection-start-line="24" selection-start-column="46" selection-end-line="24" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/first-project-selenium/src/test/java/com/telran/qa15/homework1/FireFoxEbay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="22" column="47" lean-forward="true" selection-start-line="22" selection-start-column="47" selection-end-line="22" selection-end-column="86" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/first-project-selenium/src/test/java/com/telran/qa15/homework1/ChromeEbay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="31" column="3" lean-forward="true" selection-start-line="31" selection-start-column="3" selection-end-line="31" selection-end-column="3" />
+          <folding />
         </state>
       </provider>
     </entry>
