@@ -1,6 +1,7 @@
 package com.telran.addressbook;
 
 import org.openqa.selenium.By;
+import org.openqa.selenium.NoSuchElementException;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.AfterClass;
@@ -42,10 +43,10 @@ public class TestBase {
     wd.findElement(By.name("submit")).click();
   }
 
-  public void fillGroupForm(String groupName, String groupHeader, String groupFooter) {
-        type(By.name("group_name"), groupName);
-        type(By.name("group_header"), groupHeader);
-        type(By.name("group_footer"),groupFooter);
+  public void fillGroupForm(Group group) {
+        type(By.name("group_name"), group.getGroupName());
+        type(By.name("group_header"), group.getGroupHeader());
+        type(By.name("group_footer"), group.getGroupFooter());
       }
 
   public void initGroupCreation() {
@@ -76,9 +77,21 @@ public class TestBase {
   public void deleteGroup() {
     wd.findElement(By.name("delete")).click();
   }
+
+  public void createGroup() {
+    openGroupsPage();
+    initGroupCreation();
+    fillGroupForm(new Group().setGroupName("QA_15")
+            .setGroupHeader("BLA-bla-bla")
+            .setGroupFooter("Bllllllaaaaaa"));
+    submitGroupCreation();
+    returnToGroupsPage();
+  }
 //============================================Contact=========================================================================
   public void selectContact() {
     wd.findElement(By.name("selected[]")).click();
+  }
+  public void editContact() {
     wd.findElement(By.cssSelector("[src='icons/pencil.png']")).click();
   }
 
@@ -88,14 +101,15 @@ public class TestBase {
 
   public void deleteContact() {
   wd.findElement(By.cssSelector("input[value='Delete']")).click();
+  wd.switchTo().alert().accept();
   }
 
-  public void fillContactName(String firstname, String lastname, String address, String phone, String email) {
-    type(By.name("firstname"), firstname);
-    type(By.name("lastname"),lastname);
-    type(By.name("address"), address);
-    type(By.name("mobile"),phone);
-    type(By.name("email"), email);
+  public void fillContactName(Contact contact) {
+    type(By.name("firstname"), contact.getFirstname());
+    type(By.name("lastname"), contact.getLastname());
+    type(By.name("address"), contact.getAddress());
+    type(By.name("mobile"), contact.getPhone());
+    type(By.name("email"), contact.getEmail());
 
   }
 
@@ -107,7 +121,34 @@ public class TestBase {
     wd.findElement(By.cssSelector("a[href='edit.php']")).click();
   }
 
-  public void updateContactModofication() {
+  public void submitContactModification() {
     wd.findElement(By.name("update")).click();
   }
+
+  public void contactCreation() {
+    addNewContact();
+    fillContactName(new Contact().setEmail("ivolga@mail.com").
+            setFirstname("Vasia").
+            setLastname("Pupkin").
+            setPhone("0589632589").
+            setAddress("Israel, Independence str. 89"));
+    enterContactCreation();
+  }
+ // public boolean
+  public boolean isContactPresent(){
+  return isElementPresent(By.name("selected[]"));
+  }
+
+  public boolean isElementPresent(By locator) {
+    try {
+      wd.findElement(locator);
+      return true;
+    } catch (NoSuchElementException e) {
+      return false;
+    }
+  }
+
+ public boolean isGroupPresent(){
+    return isElementPresent(By.name("selected[]"));
+ }
 }
