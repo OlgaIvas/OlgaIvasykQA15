@@ -21,6 +21,7 @@ public class ApplicationManager {
   public void start() {
     wd=new ChromeDriver();
     wd.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
+    navigationHelper=new NavigationHelper(wd);
     navigationHelper.openSite("http://localhost:8080/addressbook/");
 
     sessionHelper = new SessionHelper(wd);
@@ -28,7 +29,7 @@ public class ApplicationManager {
     contactHelper= new ContactHelper(wd);
     sessionHelper.login("admin", "secret");
 
-    navigationHelper=new NavigationHelper(wd);
+
 
   }
   public void stop() {

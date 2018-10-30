@@ -12,7 +12,7 @@ public class TestBase {
   public void setUp(){
     app.start();
   }
-  @AfterClass
+  @AfterClass(alwaysRun = true)
   public void tearDown(){
     app.stop();
   }
