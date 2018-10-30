@@ -6,6 +6,8 @@
       <module name="AddressBook-selenium_test" target="1.8" />
       <module name="first-project-selenium_main" target="1.8" />
       <module name="first-project-selenium_test" target="1.8" />
+      <module name="Thrello-Tests_main" target="1.8" />
+      <module name="Thrello-Tests_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

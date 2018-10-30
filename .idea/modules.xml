@@ -5,6 +5,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/AddressBook-selenium.iml" filepath="$PROJECT_DIR$/.idea/modules/AddressBook-selenium.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/AddressBook-selenium_main.iml" filepath="$PROJECT_DIR$/.idea/modules/AddressBook-selenium_main.iml" group="AddressBook-selenium" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/AddressBook-selenium_test.iml" filepath="$PROJECT_DIR$/.idea/modules/AddressBook-selenium_test.iml" group="AddressBook-selenium" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Thrello-Tests.iml" filepath="$PROJECT_DIR$/.idea/modules/Thrello-Tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Thrello-Tests_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Thrello-Tests_main.iml" group="Thrello-Tests" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Thrello-Tests_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Thrello-Tests_test.iml" group="Thrello-Tests" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/first-project-selenium.iml" filepath="$PROJECT_DIR$/.idea/modules/first-project-selenium.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/first-project-selenium_main.iml" filepath="$PROJECT_DIR$/.idea/modules/first-project-selenium_main.iml" group="first-project-selenium" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/first-project-selenium_test.iml" filepath="$PROJECT_DIR$/.idea/modules/first-project-selenium_test.iml" group="first-project-selenium" />
