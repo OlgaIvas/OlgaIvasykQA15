@@ -3,9 +3,9 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../Trello-Tests">
-      <excludeFolder url="file://$MODULE_DIR$/../../Trello-Tests/.gradle" />
       <excludeFolder url="file://$MODULE_DIR$/../../Thrello-Tests/build" />
       <excludeFolder url="file://$MODULE_DIR$/../../Thrello-Tests/out" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Trello-Tests/.gradle" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

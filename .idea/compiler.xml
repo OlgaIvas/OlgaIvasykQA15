@@ -8,6 +8,8 @@
       <module name="first-project-selenium_test" target="1.8" />
       <module name="Thrello-Tests_main" target="1.8" />
       <module name="Thrello-Tests_test" target="1.8" />
+      <module name="Trello-selenium-tests_main" target="1.8" />
+      <module name="Trello-selenium-tests_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
