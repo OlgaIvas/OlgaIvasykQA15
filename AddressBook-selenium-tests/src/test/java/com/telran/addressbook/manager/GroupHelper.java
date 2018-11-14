@@ -3,6 +3,9 @@ package com.telran.addressbook.manager;
 import com.telran.addressbook.model.Group;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.support.ui.ExpectedCondition;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
 
 public class GroupHelper extends HelperBase{
 
@@ -69,4 +72,9 @@ public class GroupHelper extends HelperBase{
   public boolean isGroupPresent(){
     return isElementPresent(By.name("selected[]"));
  }
+
+  public void waitForGroup() {
+    WebDriverWait wait=new WebDriverWait(wd,3);
+    wait.until(ExpectedConditions.presenceOfElementLocated(By.name("selected[]")));
+  }
 }
